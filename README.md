@@ -1,0 +1,1 @@
+Samsung_HW_1
