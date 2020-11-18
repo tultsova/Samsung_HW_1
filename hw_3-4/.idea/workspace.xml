@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99591658-ab47-4474-a5c5-8ebbc463dbee" name="Default Changelist" comment="" />
+    <list default="true" id="6c765d7d-9c58-4571-b024-e8917260b0f0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1kSLfJHxawL84Xrs6BDtHSg64jq" />
+  <component name="ProjectId" id="1kSNuKzGsld0lXijc5Z8wFdVCAz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,6 +45,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -62,12 +65,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="99591658-ab47-4474-a5c5-8ebbc463dbee" name="Default Changelist" comment="" />
-      <created>1605689153132</created>
+      <changelist id="6c765d7d-9c58-4571-b024-e8917260b0f0" name="Default Changelist" comment="" />
+      <created>1605690258162</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605689153132</updated>
-      <workItem from="1605689154369" duration="1068000" />
+      <updated>1605690258162</updated>
+      <workItem from="1605690260666" duration="290000" />
     </task>
     <servers />
   </component>
@@ -86,13 +89,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="579" y="171" key="FileChooserDialogImpl" timestamp="1605690251730">
+    <state x="280" y="4" key="#Project_Structure" timestamp="1605690269564">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="579" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1605690251730" />
-    <state x="182" y="50" key="new project wizard" timestamp="1605690253630">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="182" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1605690253630" />
+    <state x="280" y="4" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1605690269564" />
   </component>
 </project>
