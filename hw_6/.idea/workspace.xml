@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="374075fc-2109-40bb-8421-3e6eef4a859d" name="Default Changelist" comment="" />
+    <list default="true" id="93920955-22f2-41b5-841d-514bdc429a1e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1kSOxsF3gKY5IU89WPZwsIgMsnL" />
+  <component name="ProjectId" id="1kVAwbMaS0Xo5piXNY2lu0trl1j" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,23 +45,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="374075fc-2109-40bb-8421-3e6eef4a859d" name="Default Changelist" comment="" />
-      <created>1605690779580</created>
+      <changelist id="93920955-22f2-41b5-841d-514bdc429a1e" name="Default Changelist" comment="" />
+      <created>1605775633991</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605690779580</updated>
-      <workItem from="1605690782086" duration="3305000" />
-      <workItem from="1605775527707" duration="70000" />
+      <updated>1605775633991</updated>
+      <workItem from="1605775636767" duration="1388000" />
     </task>
     <servers />
   </component>
@@ -78,16 +84,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="579" y="171" key="FileChooserDialogImpl" timestamp="1605775621361">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="579" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1605775621361" />
-    <state x="182" y="50" key="new project wizard" timestamp="1605775624154">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="182" y="50" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1605775624154" />
   </component>
 </project>
